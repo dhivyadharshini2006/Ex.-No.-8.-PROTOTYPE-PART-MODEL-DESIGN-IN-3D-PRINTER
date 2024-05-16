@@ -1,5 +1,4 @@
-# Ex. No. 3
-- PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3 -PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE:16/05/24 
 ## AIM: 
@@ -47,6 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+
+![image](https://github.com/dhivyadharshini2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979490/1e923018-07ec-476a-9f18-5bd90cd4a7fe)
+
 
 ### Name: Dhivya Dharshini B
 ### Register Number:212223240031
